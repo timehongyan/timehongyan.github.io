@@ -2,7 +2,7 @@
 layout: post
 title: 2019-07-05_react_yongfa
 date: 2019-07-05
-tags: [Ubunto, npm, react, 框架]
+tags: [Ubunto, npm, react, 日志]
 
 
 ---
